@@ -39,6 +39,9 @@ Financial-PowerBI-Dashboard/
 └── README.md
 Preview Video
 
+## Note
+The full transactions dataset is excluded using `.gitignore` due to its large file size and GitHub limitations.
+
 A dashboard walkthrough video is included in this repository to demonstrate the dashboard functionality and insights.
 
 Key Skills Demonstrated

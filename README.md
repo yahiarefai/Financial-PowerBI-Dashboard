@@ -42,6 +42,8 @@ Preview Video
 ## Note
 The full transactions dataset is excluded using `.gitignore` due to its large file size and GitHub limitations.
 
+You can download Full dataset including Transactions data from this link : https://1drv.ms/x/c/d694de356af03de7/IQCANHzFw8KhT6mjna8dw80-AaG5cfJ2FqdEyTES-cF3Ix8?e=YfyCRV
+
 A dashboard walkthrough video is included in this repository to demonstrate the dashboard functionality and insights.
 
 Key Skills Demonstrated
